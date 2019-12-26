@@ -9,16 +9,16 @@ Description: "ActBlue contributions counter/ticker"
 GitHub Repo: [runvnc/actbluecounter](https://github.com/runvnc/actbluecounter)
 
 ## Can Andrew Yang Win?
-Description: "Statistical data on the electability of Andrew Yang"
+Description: Statistical data on the electability of Andrew Yang
 
 Website: [Can Andrew Yang Win?](https://www.canandrewyangwin.com)
 
 ## yanglinks
-Description: "Links to Andrew Yang's stances on various policies"
+Description: Links to Andrew Yang's stances on various policies
 
 Website: [yanglinks.com](https://www.yanglinks.com/)
 
 ## yangsites
-Description: "Signature gathering information site for state ballots"
+Description: Signature gathering information site for state ballots
 
 Website: [yangsites.com](https://www.yangsites.com/)
