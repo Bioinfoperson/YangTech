@@ -21,7 +21,7 @@ Website: [yanglinks.com](https://www.yanglinks.com/)
 ## Andrew Yang Donation Tracker
 Description: Links to Andrew Yang's stances on various policies
 
-Website: [yanglinks.com](https://docs.google.com/spreadsheets/d/1GtEhefwXP-C8nrypj97hSBRlH2LOQ8m81GdTFk5utkg/edit#gid=832576931)
+Website: [Google Doc](https://docs.google.com/spreadsheets/d/1GtEhefwXP-C8nrypj97hSBRlH2LOQ8m81GdTFk5utkg/edit#gid=832576931)
 
 ## yangsites
 Description: Signature gathering information site for state ballots
