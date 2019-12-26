@@ -13,6 +13,10 @@ Description: "Statistical data on the electability of Andrew Yang"
 
 Website: [Can Andrew Yang Win?](https://www.canandrewyangwin.com)
 
+## yanglinks
+Description: "Links to Andrew Yang's stances on various policies"
+
+Website: [yanglinks.com](https://www.yanglinks.com/)
 
 ## yangsites
 Description: "Signature gathering information site for state ballots"
